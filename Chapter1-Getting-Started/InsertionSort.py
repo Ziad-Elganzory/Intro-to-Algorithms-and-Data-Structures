@@ -88,4 +88,4 @@ print(f"Sum of A and B: {result}")
 
 # Initialization: Initially, no bits have been added, so the invariant holds trivially.
 # Maintenance: At each step, the algorithm correctly updates the sum and carry, maintaining the invariant.
-# Termination: When the loop terminates, the sum of all bits in CC is correct, and the carry has been placed in the final position. Thus, the invariant ensures the correctness of the result.
+# Termination: When the loop terminates, the sum of all bits in CC is correct, and the carry has been placed in the final position. Thus, the invariant ensures the correctness of the result
